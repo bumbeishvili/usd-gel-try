@@ -1,2 +1,2 @@
 # usd-gel-try
-Bloomberg US Dollar, Georgian Lari, Turkish Lira real-time analisys
+Bloomberg US Dollar, Georgian Lari, Turkish Lira real-time analysis
